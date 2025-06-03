@@ -1,0 +1,7 @@
+├── README.md
+├── docs/                # Project documentation
+├── progress/            # Weekly progress updates
+├── src/                 # Source code
+│   ├── frontend/        # UI components
+│   └── backend/         # Server logic
+└── assets/              # Images, mockups, etc.
