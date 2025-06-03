@@ -19,6 +19,14 @@ Lumi Learn uses a simple chatbot interface, gamified assessments, and data insig
 - AI/ML: Python (scikit-learn or TensorFlow for later versions)
 - Database: Firebase Firestore / MongoDB
 
+- ## 🔗 Progress Reports
+- [Week 1 Progress](progress/week1.md)
+
+## 🔗 Code Demos
+- [Frontend HTML](src/frontend/index.html)
+- [Backend Server](src/backend/server.js)
+- [Dummy AI Model](src/ml-model/dummy_model.py)
+
 - ## 🚀 Installation Instructions
 
 ```bash
@@ -30,12 +38,5 @@ cd DIGINATION_LumiLearn_HeriotWattUniversityMalaysia
 npm install
 npm run dev
 
-## 🔗 Progress Reports
-- [Week 1 Progress](progress/week1.md)
-
-## 🔗 Code Demos
-- [Frontend HTML](src/frontend/index.html)
-- [Backend Server](src/backend/server.js)
-- [Dummy AI Model](src/ml-model/dummy_model.py)
 
 
