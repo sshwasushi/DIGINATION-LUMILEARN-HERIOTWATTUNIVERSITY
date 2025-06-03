@@ -19,3 +19,14 @@ Lumi Learn uses a simple chatbot interface, gamified assessments, and data insig
 - AI/ML: Python (scikit-learn or TensorFlow for later versions)
 - Database: Firebase Firestore / MongoDB
 
+- ## 🚀 Installation Instructions
+
+```bash
+# Clone the repository
+git clone https://github.com/yourteam/DIGINATION_LumiLearn_HeriotWattUniversityMalaysia.git
+cd DIGINATION_LumiLearn_HeriotWattUniversityMalaysia
+
+# (For example, if using Node.js)
+npm install
+npm run dev
+
