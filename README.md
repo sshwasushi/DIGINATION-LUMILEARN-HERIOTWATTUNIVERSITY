@@ -20,7 +20,7 @@ Lumi Learn uses a simple chatbot interface, gamified assessments, and data insig
 - Database: Firebase Firestore / MongoDB
 
 - ## 🔗 Progress Reports
-- [Week 1 Progress](progress/week1.md)
+- [Week 1 Progress](progress.md)
 
 ## 🔗 Code Demos
 - [Frontend HTML](src/frontend/index.html)
