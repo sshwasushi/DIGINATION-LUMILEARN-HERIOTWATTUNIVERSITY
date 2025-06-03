@@ -30,3 +30,12 @@ cd DIGINATION_LumiLearn_HeriotWattUniversityMalaysia
 npm install
 npm run dev
 
+## 🔗 Progress Reports
+- [Week 1 Progress](progress/week1.md)
+
+## 🔗 Code Demos
+- [Frontend HTML](src/frontend/index.html)
+- [Backend Server](src/backend/server.js)
+- [Dummy AI Model](src/ml-model/dummy_model.py)
+
+
