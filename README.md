@@ -23,7 +23,7 @@ Lumi Learn uses a simple chatbot interface, gamified assessments, and data insig
 - [Week 1 Progress](progress.md)
 
 ## 🔗 Code Demos
-- [Frontend HTML](src/frontend/index.html)
+- [Frontend HTML](rc/frontend/index.html)
 - [Backend Server](src/backend/server.js)
 - [Dummy AI Model](src/ml-model/dummy_model.py)
 
